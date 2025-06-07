@@ -1,9 +1,10 @@
-💫 About Me:
-🔭 I’m currently working on Attendance Mananagement System
-👯 I’m looking to collaborate on backend projects
-🤝 I’m looking for help with UI/UX and React Typescript 
-🌱 I’m currently learning React typescript 
-💬 Ask me about my projects
+💫 About Me: 
+
+🔭 I’m currently working on Attendance Mananagement System  
+👯 I’m looking to collaborate on backend projects 
+🤝 I’m looking for help with UI/UX and React Typescript  
+🌱 I’m currently learning React typescript    
+💬 Ask me about my projects 
 ⚡ Fun fact : i enjoy coding 
 
 ## 🌐 Socials:
