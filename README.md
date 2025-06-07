@@ -1,3 +1,10 @@
+💫 About Me:
+🔭 I’m currently working on Attendance Mananagement System
+👯 I’m looking to collaborate on backend projects
+🤝 I’m looking for help with UI/UX and React Typescript 
+🌱 I’m currently learning React typescript 
+💬 Ask me about my projects
+⚡ Fun fact : i enjoy coding 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/austine.ndlovu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/austine-mukomi ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukomiaustine8@gmail.com) 
